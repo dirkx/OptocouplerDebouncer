@@ -1,0 +1,16 @@
+OptoDebounce KEYWORD1
+
+onOptoOn KEYWORD2
+onOptoOff KEYWORD2
+onOptoChange KEYWORD2
+state	KEYWORD2
+
+setCallback	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+OFF LITERAL1
+ON LITERAL1
+UNKNOWN LITERAL1

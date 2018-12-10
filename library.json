@@ -1,0 +1,17 @@
+{
+  "name": "OptoDebounce",
+  "keywords": ", , input, converter, signal",
+  "description": "debounce 50/100hz opto couplers.",
+  "include": "OptoDebounce",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/dirkx/OptoDebounce.git"
+  },
+  "dependencies":
+  {
+    "frameworks": "arduino"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
